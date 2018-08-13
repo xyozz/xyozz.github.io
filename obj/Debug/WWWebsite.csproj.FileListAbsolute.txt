@@ -1,0 +1,44 @@
+C:\Users\Dieter\Documents\Visual Studio 2017\Projects\WWWebsite\WWWebsite\bin\WWWebsite.dll.config
+C:\Users\Dieter\Documents\Visual Studio 2017\Projects\WWWebsite\WWWebsite\bin\WWWebsite.dll
+C:\Users\Dieter\Documents\Visual Studio 2017\Projects\WWWebsite\WWWebsite\bin\WWWebsite.pdb
+C:\Users\Dieter\Documents\Visual Studio 2017\Projects\WWWebsite\WWWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dieter\Documents\Visual Studio 2017\Projects\WWWebsite\WWWebsite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dieter\Documents\Visual Studio 2017\Projects\WWWebsite\WWWebsite\bin\System.Web.Helpers.dll
+C:\Users\Dieter\Documents\Visual Studio 2017\Projects\WWWebsite\WWWebsite\bin\System.Web.Mvc.dll
+C:\Users\Dieter\Documents\Visual Studio 2017\Projects\WWWebsite\WWWebsite\bin\System.Web.Razor.dll
+C:\Users\Dieter\Documents\Visual Studio 2017\Projects\WWWebsite\WWWebsite\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Dieter\Documents\Visual Studio 2017\Projects\WWWebsite\WWWebsite\bin\System.Web.Webpages.dll
+C:\Users\Dieter\Documents\Visual Studio 2017\Projects\WWWebsite\WWWebsite\bin\System.Web.Webpages.Razor.dll
+C:\Users\Dieter\Documents\Visual Studio 2017\Projects\WWWebsite\WWWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dieter\Documents\Visual Studio 2017\Projects\WWWebsite\WWWebsite\bin\System.Web.Razor.xml
+C:\Users\Dieter\Documents\Visual Studio 2017\Projects\WWWebsite\WWWebsite\bin\System.Web.Webpages.xml
+C:\Users\Dieter\Documents\Visual Studio 2017\Projects\WWWebsite\WWWebsite\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Dieter\Documents\Visual Studio 2017\Projects\WWWebsite\WWWebsite\bin\System.Web.Webpages.Razor.xml
+C:\Users\Dieter\Documents\Visual Studio 2017\Projects\WWWebsite\WWWebsite\bin\System.Web.Helpers.xml
+C:\Users\Dieter\Documents\Visual Studio 2017\Projects\WWWebsite\WWWebsite\bin\System.Web.Mvc.xml
+C:\Users\Dieter\Documents\Visual Studio 2017\Projects\WWWebsite\WWWebsite\obj\Debug\WWWebsite.csproj.CoreCompileInputs.cache
+C:\Users\Dieter\Documents\Visual Studio 2017\Projects\WWWebsite\WWWebsite\obj\Debug\WWWebsite.dll
+C:\Users\Dieter\Documents\Visual Studio 2017\Projects\WWWebsite\WWWebsite\obj\Debug\WWWebsite.pdb
+C:\Users\Dieter\Documents\Visual Studio 2017\Projects\WWWebsite\WWWebsite\obj\Debug\WWWebsite.csprojResolveAssemblyReference.cache
+C:\Users\11702976\Desktop\gigi ww\WWWebsite\bin\WWWebsite.dll.config
+C:\Users\11702976\Desktop\gigi ww\WWWebsite\bin\WWWebsite.dll
+C:\Users\11702976\Desktop\gigi ww\WWWebsite\bin\WWWebsite.pdb
+C:\Users\11702976\Desktop\gigi ww\WWWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\11702976\Desktop\gigi ww\WWWebsite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\11702976\Desktop\gigi ww\WWWebsite\bin\System.Web.Helpers.dll
+C:\Users\11702976\Desktop\gigi ww\WWWebsite\bin\System.Web.Mvc.dll
+C:\Users\11702976\Desktop\gigi ww\WWWebsite\bin\System.Web.Razor.dll
+C:\Users\11702976\Desktop\gigi ww\WWWebsite\bin\System.Web.Webpages.Deployment.dll
+C:\Users\11702976\Desktop\gigi ww\WWWebsite\bin\System.Web.Webpages.dll
+C:\Users\11702976\Desktop\gigi ww\WWWebsite\bin\System.Web.Webpages.Razor.dll
+C:\Users\11702976\Desktop\gigi ww\WWWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\11702976\Desktop\gigi ww\WWWebsite\bin\System.Web.Razor.xml
+C:\Users\11702976\Desktop\gigi ww\WWWebsite\bin\System.Web.Webpages.xml
+C:\Users\11702976\Desktop\gigi ww\WWWebsite\bin\System.Web.Webpages.Deployment.xml
+C:\Users\11702976\Desktop\gigi ww\WWWebsite\bin\System.Web.Webpages.Razor.xml
+C:\Users\11702976\Desktop\gigi ww\WWWebsite\bin\System.Web.Helpers.xml
+C:\Users\11702976\Desktop\gigi ww\WWWebsite\bin\System.Web.Mvc.xml
+C:\Users\11702976\Desktop\gigi ww\WWWebsite\obj\Debug\WWWebsite.csproj.CoreCompileInputs.cache
+C:\Users\11702976\Desktop\gigi ww\WWWebsite\obj\Debug\WWWebsite.dll
+C:\Users\11702976\Desktop\gigi ww\WWWebsite\obj\Debug\WWWebsite.pdb
+C:\Users\11702976\Desktop\gigi ww\WWWebsite\obj\Debug\WWWebsite.csprojResolveAssemblyReference.cache
